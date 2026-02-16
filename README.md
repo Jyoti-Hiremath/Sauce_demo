@@ -1,6 +1,6 @@
 This project automates the SauceDemo web application (https://www.saucedemo.com/) using Selenium WebDriver and Java.
 The framework is designed using the Page Object Model (POM) pattern to ensure scalability, maintainability, and clean separation of test logic and page elements.
-The purpose of this project is to demonstrate UI test automation skills, framework design, and best practices.
+The purpose of this project is to demonstrate UI test automation skills and framework designs.
 
 ## Tools Used
 Java

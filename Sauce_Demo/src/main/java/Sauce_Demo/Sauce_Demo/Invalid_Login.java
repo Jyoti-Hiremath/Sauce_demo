@@ -1,5 +1,4 @@
 package Sauce_Demo.Sauce_Demo;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -18,7 +17,5 @@ public class Invalid_Login {
 		Thread.sleep(5000);
 		driver.findElement(By.id("login-button")).click();
 		driver.close();		
-
 	}
-
 }

@@ -8,9 +8,7 @@ public class verify_ProductList {
 
 	public static void main(String[] args) throws InterruptedException {
 		
-		{
-		     WebDriver driver=new ChromeDriver();
-			
+		    WebDriver driver=new ChromeDriver();
 			driver.get("https://www.saucedemo.com/");
 			driver.manage().window().maximize();
 			Thread.sleep(5000);
@@ -31,6 +29,4 @@ public class verify_ProductList {
 			//driver.findElement(By.name("add-to-cart-sauce-labs-bike-light")).click();
 			//driver.close();
 	}
-
-}
 }
